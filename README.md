@@ -8,11 +8,11 @@
 ---
 
 ## 🛡️ About Me  
-
-🔐 Passionate about Cyber Security, Ethical Hacking & Networking  
-💻 MCA Student & Front-End Developer  
-🚀 Building Real-World Security Projects  
-🧠 Always learning new security techniques  
+🔐 Cyber Security & Ethical Hacking Enthusiast  
+💻 MCA Student  
+🛡️ Skilled in Networking, Reconnaissance & Security Fundamentals  
+⚡ Building Real-world Security Tools & Applications  
+📌 Always Learning | Always Securing    
 
 ---
 
@@ -96,8 +96,8 @@
 
 ## 📫 Connect  
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: your-linkedin-link  
+📧 Email: dishavarma910@gmail.com  
+💼 LinkedIn: linkedin.com/in/disha-varma-28a771310  
 
 ---
 
