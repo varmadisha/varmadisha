@@ -2,7 +2,7 @@
 <h3 align="center">🔐 Cyber Security Enthusiast | Ethical Hacker | SOC Analyst Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Ethical+Hacking+Enthusiast;SOC+Analyst+in+Progress;React+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Ethical+Hacking+Enthusiast;SOC+Analyst+in+Progress;Always+Learning+New+Things" />
 </p>
 
 ---
